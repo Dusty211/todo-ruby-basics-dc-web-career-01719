@@ -22,6 +22,6 @@ def last_evaluated_value
   "expert"
 end
 
-def pizza_party(default_arg = cheese)
+def pizza_party(default_arg = "cheese")
   default_arg
 end
